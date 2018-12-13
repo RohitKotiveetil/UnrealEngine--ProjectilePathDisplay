@@ -1,8 +1,8 @@
 # UnrealEngine--ProjectilePathDisplay
 
-A blueprint module for visualizing projectile trajectory in Unreal Engine v4.20.
+A blueprint module for visualizing projectile trajectory in Unreal Engine v4.21.
 
-**Preview Video:** https://www.youtube.com/watch?v=o5c7tiTaXYk
+**Preview:** https://www.youtube.com/watch?v=o5c7tiTaXYk
 
 ## Notes:
 - The BP_ProjectilePathDisplay actor contains the core logic for visualizing the projectile trajectories. Add it as a child actor to your weapons and call the Activate/Deactivate Module events to control the path display system.
