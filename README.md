@@ -1,6 +1,6 @@
 # UnrealEngine--ProjectilePathDisplay
 
-A blueprint module for visualizing projectile trajectory in Unreal Engine v4.22.
+A blueprint module for visualizing projectile trajectory in Unreal Engine v4.23.
 
 **Preview:** https://www.youtube.com/watch?v=o5c7tiTaXYk
 
